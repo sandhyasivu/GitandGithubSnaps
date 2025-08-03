@@ -1,0 +1,7 @@
+hi im sandhu
+
+1) git add test2.txt (//filename)
+  2) git status (//shows file added successfully in green color)
+  3) git commit -m "test 2 text file added"  (//any message in double quote"
+     4) git push origin main
+ 5) see GitHub successfully added : )
